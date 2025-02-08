@@ -113,4 +113,3 @@ For any questions or feedback, feel free to open an issue in this repository.
 
 ---
 
-*Note: This project is for educational purposes and is based on fictional data.*
